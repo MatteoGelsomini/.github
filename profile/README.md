@@ -16,9 +16,11 @@
 Independent software engineering based in **Sydney, Australia**. I build custom applications,
 connect business workflows and manage the infrastructure behind them.
 
-| Software | Integrations | Infrastructure |
-| :--- | :--- | :--- |
-| Websites, customer portals, internal tools and commerce experiences. | APIs, connected systems and automation for everyday operations. | Managed hosting, monitoring, backups and ongoing maintenance. |
+**Software** · Websites, customer portals, internal tools and commerce experiences.
+
+**Integrations** · APIs, connected systems and automation for everyday operations.
+
+**Infrastructure** · Managed hosting, monitoring, backups and ongoing maintenance.
 
 ### From the first decision to the next release
 
