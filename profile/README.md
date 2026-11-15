@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://matteogelsomini.com">
-    <img src="https://raw.githubusercontent.com/MatteoGelsomini/.github/main/profile/assets/header.svg" width="1200" alt="Matteo Gelsomini — Custom software and managed infrastructure. Sydney, Australia." />
+    <img src="https://raw.githubusercontent.com/MatteoGelsomini/.github/main/profile/assets/header.svg?v=2" width="1200" alt="Matteo Gelsomini — Custom software and managed infrastructure. Sydney, Australia." />
   </a>
 </p>
 

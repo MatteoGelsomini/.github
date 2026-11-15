@@ -10,3 +10,6 @@ Keep published content consistent with the public company website. Client source
 internal task records and private project details do not belong in this repository.
 
 Copyright © Matteo Gelsomini. All rights reserved.
+
+`profile/assets/mark.svg` is the website favicon. `profile/assets/avatar.png` is its 512 × 512
+rendering prepared for the organization profile picture. The same vector mark appears in the header.

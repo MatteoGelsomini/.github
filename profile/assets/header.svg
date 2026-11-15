@@ -14,8 +14,7 @@
   <rect x="730" y="1" width="469" height="348" rx="20" fill="url(#grid)"/>
   <rect x=".5" y=".5" width="1199" height="349" rx="20" fill="none" stroke="#294052"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <rect x="48" y="37" width="49" height="38" rx="9" fill="#90c0f0"/>
-    <text x="72.5" y="63" text-anchor="middle" font-size="21" font-weight="700" fill="#031220">MG</text>
+    <g transform="translate(48 32) scale(.75)"><rect width="64" height="64" rx="14" fill="#071421"/><g fill="none" stroke-width="4.6" stroke-linecap="round" stroke-linejoin="round"><path stroke="#90c0f0" d="M11.5 21.5 5 32l6.5 10.5M52.5 21.5 59 32l-6.5 10.5"/><path stroke="#f5f8fb" d="M16.5 41.5v-19l5.75 9 5.75-9v19M47.09 26.47A8.6 8.6 0 1 0 49.10 32H42.00"/></g></g>
     <text x="112" y="63" font-size="23" font-weight="700" letter-spacing=".2" fill="#f5f8fb">Matteo Gelsomini</text>
     <text x="49" y="145" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#f5f8fb">Software, from interface</text>
     <text x="49" y="201" font-size="46" font-weight="700" letter-spacing="-1.2" fill="#90c0f0">to infrastructure.</text>
